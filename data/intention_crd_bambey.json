@@ -1,0 +1,280 @@
+{
+  "intentions": [
+    {
+      "tag": "salutations",
+      "questions": [
+        "Bonjour", "Salut", "Bonsoir", "Bonjour le CRD", "Salut CRD", "Bonjour, je souhaite parler au Centre de Ressources de Dakar.", 
+        "Comment allez-vous ?", "Quoi de neuf au CRD ?", "Avez-vous de nouvelles rentrées ou programmes ?", 
+        "Je voudrais savoir ce que vous proposez comme formations.", "Yo", "Coucou", "Hello", "Hey", "Salut l'équipe", 
+        "Bon début de journée", "Bonne soirée", "Comment va le bot ?", "Comment vas-tu ?", "Je vous salue", 
+        "Bien le bonjour", "Je suis intéressé par vos formations", "Je voudrais des informations sur le CRD", 
+        "Par où commencer pour avoir des infos ?", "Dites-moi tout sur vos programmes", 
+        "Les formations continues sont-elles ouvertes ?", "Avez-vous des formations disponibles ?", 
+        "Je cherche des renseignements", "Quelles sont les nouvelles formations ?", "Salut, je suis un futur étudiant", 
+        "Salut, comment puis-je m'inscrire?", "J'ai besoin d'aide pour une question", "CRD, vous êtes là ?", 
+        "Dis-moi quelque chose", "Ça va?", "Tu es là?", "J'ai une question rapide", "Dis-moi bonjour", 
+        "Je voudrais des infos", "Je peux vous poser une question ?", "J'espère que vous allez bien", 
+        "Je veux me renseigner", "Parlez-moi de vous", "Salut le centre", "Comment se passe la journée ?", 
+        "Quel est l'horaire d'ouverture ?", "Je suis intéressé par vos offres", "Commencez par me donner un aperçu",
+        "Je veux me former, comment faire ?", "Quel est le programme du CRD ?", "Je cherche une formation, aidez-moi",
+        "Vous êtes quel organisme ?", "Bon matin", "Je suis sur votre site", "Je me renseigne sur vos cursus",
+        "Hello tout le monde", "Êtes-vous en ligne ?", "J'ai besoin d'un contact", "Je veux savoir si vous offrez des masters",
+        "Salutations cordiales", "Pardon, je peux poser une question ?", "Je vous écoute", "Je voudrais des explications"
+      ],
+      "réponses": [
+        "Bonjour et bienvenue ! Je suis l’assistant du Centre de Ressources de Dakar (CRD), le Département Formation Continue de l’Université Alioune DIOP. Comment puis-je vous aider aujourd’hui ?",
+        "Le CRD accompagne les professionnels et étudiants dans le développement de leurs compétences à travers des formations continues en Licence, Master et Certificats. Quelle formation vous intéresse ?",
+        "Le CRD est dédié à la production de ressources humaines à haute valeur ajoutée et au développement de l’employabilité. N’hésitez pas à poser vos questions, qu’elles soient simples ou détaillées.",
+        "Effectivement, le CRD est le Département Formation Continue de l’Université Alioune DIOP de Dakar. Nous proposons plusieurs programmes adaptés aux besoins du marché du travail. Que souhaitez-vous savoir précisément ?"
+      ]
+    },
+    {
+      "tag": "presentation_crd_mission_vision",
+      "questions": [
+        "Qu’est-ce que le Centre de Ressources de Dakar ?", "C’est quoi le CRD ?", "Que fait le CRD ?", "Quel est le rôle du CRD ?", 
+        "Quelle est la mission du CRD ?", "Quelle est sa vision ?", "Quels sont ses objectifs ?", "Que signifie la devise du CRD ?", 
+        "Que veut dire 'L’excellence est ma constance, l’éthique ma vertu' ?", "Quel est son rôle dans l’Université Alioune DIOP ?",
+        "Présentez-moi le CRD", "Dites-moi en plus sur le Centre de Ressources de Dakar", "Qui êtes-vous exactement ?",
+        "Qu'est ce que veut dire le sigle CRD ?", "Donnez-moi la définition du CRD", "Quel est l'objectif principal du Centre ?",
+        "C’est quoi votre vision à long terme ?", "Expliquez-moi votre mission", "Parlez-moi de votre slogan",
+        "Qui est le CRD ?", "Le CRD fait quoi ?", "Quel est le but du CRD ?", "Qu'est-ce que le CRD gère ?",
+        "Quel est le lien entre le CRD et l'UAD ?", "Le CRD est-il un département de l'Université Alioune DIOP ?",
+        "Expliquez le slogan", "Que signifie l'éthique pour vous ?", "C'est quoi l'excellence pour le CRD ?",
+        "Votre devise, ça veut dire quoi ?", "Quelles sont les valeurs du centre ?", "Je cherche la description du CRD",
+        "Racontez-moi l'histoire du CRD", "Pourquoi ce nom : Centre de Ressources de Dakar ?", "Quel est votre positionnement ?",
+        "Quels sont les enjeux du CRD ?", "Comment contribuez-vous à la formation des professionnels ?",
+        "Quelle est votre devise complète ?", "Quelles sont les vertus du CRD ?", "Qu'est-ce que la constance ?",
+        "Donnez-moi les grandes lignes de votre projet", "Quelle est la raison d'être du CRD ?", "Fonction principale du CRD",
+        "Je ne connais pas le CRD", "Est-ce un centre de formation ?", "Quel type d'établissement êtes-vous ?",
+        "Que représente le CRD pour l'UAD ?", "À quelle université appartenez-vous ?", "Crd vision mission",
+        "Quels sont les piliers du CRD ?", "La formation continue, c'est quoi au CRD ?"
+      ],
+      "réponses": [
+        "Le Centre de Ressources de Dakar (CRD) est le Département Formation Continue de l’Université Alioune DIOP. Il renforce la formation des professionnels et contribue à la production de compétences à haute valeur ajoutée.",
+        "Sa mission est de dispenser une formation universitaire de qualité tout en répondant aux besoins réels des organisations et des entreprises.",
+        "Le CRD s’appuie sur une ingénierie innovante de programmes pour devenir un acteur de référence dans la formation continue. Sa devise, 'L’excellence est ma constance, l’éthique ma vertu', traduit son engagement envers la qualité et la rigueur professionnelle."
+      ]
+    },
+    {
+      "tag": "domaines_formation_generaux",
+      "questions": [
+        "Quels sont les domaines de formation du CRD ?", "Dans quels domaines formez-vous ?", "Quels sont vos programmes ?", 
+        "Le CRD propose-t-il des formations en environnement ?", "Y a-t-il des formations en santé ?", 
+        "Proposez-vous des formations pluridisciplinaires ?", "Avez-vous des séminaires ou formations courtes ?", 
+        "Comment sont élaborés vos programmes ?", "Quels critères suivez-vous pour créer les formations ?",
+        "Donnez-moi la liste de tous vos domaines", "Quelles sont les filières disponibles ?", "Quels sont les thèmes couverts par vos formations ?",
+        "Formez-vous en sciences humaines ?", "Y a-t-il des cours sur l'économie et la gestion ?", "Quelles formations en communication avez-vous ?",
+        "J'aimerais me former en développement durable", "Faites-vous des formations certifiantes rapides ?", "Avez-vous des modules de courte durée ?",
+        "Quelle est votre ingénierie de programmes ?", "Comment sont conçues vos formations ?", "Le CRD suit-il les besoins du marché ?",
+        "Quelles sont les catégories de formation que vous offrez ?", "Quelles sont les différentes branches d'étude ?",
+        "Je cherche une formation dans un domaine précis", "Avez-vous des programmes qui ne sont pas des diplômes LMD ?",
+        "Expliquez-moi l'élaboration de vos formations", "C'est quoi la formation permanente ?", "Les domaines couverts par le CRD",
+        "Faites-vous du Droit ?", "Des formations en sciences de l'information sont-elles dispo ?", "Formation en Sciences de la santé CRD",
+        "Programmes de formation continue", "Séminaires et conférences proposés", "Offres d'expertise CRD",
+        "Quels sont les diplômes LMD disponibles ?", "Formations en Sciences juridiques", "Les formations en Sciences de gestion",
+        "Formation en Sciences humaines et sociales", "Disciplines enseignées au CRD", "Critères d'élaboration des programmes",
+        "Quel est l'objectif de l'ingénierie rigoureuse ?", "Vos formations sont-elles pertinentes pour le marché ?",
+        "Quelles sont les filières d'études proposées ?", "Y a-t-il des formations en management ?", "Formation pour les professionnels"
+      ],
+      "réponses": [
+        "Nos formations couvrent plusieurs domaines : Sciences juridiques, Économiques et de Gestion, Sciences humaines et sociales, Sciences de l’information et de la communication, Sciences de l’environnement et du développement durable, et Sciences de la santé.",
+        "Les programmes sont conçus selon une ingénierie rigoureuse fondée sur les référentiels de compétences, afin d’assurer leur pertinence face aux besoins du marché.",
+        "Le CRD propose également des formations permanentes : séminaires, conférences et offres d’expertise, en plus des diplômes LMD (Licence, Master, Certificat)."
+      ]
+    },
+    {
+      "tag": "master_ds_gl_presentation_modules",
+      "questions": [
+        "Qu’est-ce que le Master Data Science et Génie Logiciel ?", "Quels sont les modules du Master Data Science et Génie Logiciel ?", 
+        "Ce Master parle-t-il de Big Data ?", "Y a-t-il des cours d’Intelligence Artificielle ?", "Quels sont les pôles de formation ?", 
+        "Le Master inclut-il de l’entrepreneuriat ?", "Apprend-on le développement web ou mobile ?", "Y a-t-il du Deep Learning ?", 
+        "Ce Master permet-il de devenir ingénieur logiciel ?", "Quelles sont les compétences qu’on acquiert ?",
+        "Décrivez-moi le Master DSGL", "Quelles matières sont enseignées dans ce Master ?", "Est-ce un Master pro ou recherche ?",
+        "Je veux des détails sur le Master Data Science", "Qu'est-ce que l'UFR SATIC a à voir avec ce Master ?",
+        "Le programme couvre-t-il le cloud computing ?", "Est-ce qu'on étudie le NLP ?", "Quelles sont les technologies abordées en génie logiciel ?",
+        "Est-ce que l'éthique est enseignée ?", "Y a-t-il de la gestion de projet ?", "Quels sont les outils data science utilisés ?",
+        "Je peux devenir Data Scientist avec ce Master ?", "Je serai ingénieur en logiciel après le Master ?",
+        "Pôles du Master Data Science", "Détaillez les cours de ce Master", "Master Big Data", "Intelligence artificielle au CRD",
+        "Qu'est-ce que l'Infrastructure et Données ?", "Expliquez le pôle Développement Logiciel Avancé",
+        "Master Data Science et Génie Logiciel UFR SATIC", "Quels sont les quatre pôles du Master ?",
+        "Cours sur le Deep Learning et NLP", "Formation Full Stack dans le Master", "Y a-t-il de la Virtualisation ?",
+        "Master en IA CRD", "Les objectifs de ce Master", "Quelles sont les compétences en Génie Logiciel ?",
+        "Est-ce que ce Master inclut le Management ?", "Apprend-on les projets en équipe ?", "Les modules IA",
+        "Quelles sont les matières de la Data Science ?", "C'est quoi un Développement Logiciel Avancé ?",
+        "Le Master forme-t-il à l'entrepreneuriat ?", "Ce Master dure combien de temps ?"
+      ],
+      "réponses": [
+        "Le Master Professionnel Data Science et Génie Logiciel, en collaboration avec l’UFR SATIC, s’articule autour de quatre pôles : Développement Logiciel Avancé, Data Science & Intelligence Artificielle, Infrastructure & Données, et Management & Éthique.",
+        "Les modules couvrent des thématiques telles que le Big Data, le Cloud Computing, la Virtualisation, le Deep Learning, le NLP, le Développement Mobile et Full Stack, ainsi que la Gestion de Projet, l’Entrepreneuriat et l’Éthique professionnelle.",
+        "Ce programme vise à former des experts capables d’intégrer la maîtrise des outils de la Data Science et l’expertise du Génie Logiciel."
+      ]
+    },
+    {
+      "tag": "master_ds_gl_conditions_acces",
+      "questions": [
+        "Comment accéder au Master Data Science et Génie Logiciel ?", "Quelles sont les conditions d’admission ?", 
+        "Quel diplôme faut-il avoir ?", "Puis-je postuler avec une Licence en Mathématiques ?", 
+        "L’admission se fait-elle sur concours ou dossier ?", "Qui dirige ce Master ?",
+        "Conditions pour le Master DSGL", "Quelles sont les exigences d'entrée ?", "Puis-je m'inscrire avec une Licence en Informatique ?",
+        "Est-ce que le diplôme doit être reconnu ?", "Comment la commission pédagogique étudie les dossiers ?", "Faut-il passer un examen ?",
+        "Y a-t-il un entretien de sélection ?", "Qui est le responsable de ce Master ?", "Contact du Pr. Adrien BASSE",
+        "Peut-on postuler avec une licence professionnelle ?", "Je suis titulaire d'un diplôme équivalent, puis-je postuler ?",
+        "Modalités d'accès au Master DSGL", "Quel est le processus de sélection ?", "Quel est le profil recherché pour ce Master ?",
+        "J'ai une Licence en Physique, puis-je postuler ?", "Faut-il avoir une bonne moyenne ?", "Qui est la commission pédagogique ?",
+        "Je n'ai pas de Licence, puis-je quand même candidater ?", "Quelle est l'adresse email du responsable ?",
+        "Qui est le directeur du Master ?", "Le Master DSGL est dirigé par qui ?", "Admission Master Data Science",
+        "Critères d'admission Master DSGL", "Examen de dossier pour ce Master", "Concours pour le Master Data Science",
+        "Faut-il une Licence en Science ?", "Diplôme requis pour le Master DSGL"
+      ],
+      "réponses": [
+        "L’accès au Master Data Science et Génie Logiciel est ouvert aux titulaires d’une Licence en Informatique, en Mathématiques ou tout diplôme équivalent reconnu par la commission pédagogique.",
+        "L’admission se fait sur étude de dossier par la cellule pédagogique du CRD. Le responsable académique du Master est le Pr. Adrien BASSE (adrien.basse@uadb.edu.sn)."
+      ]
+    },
+    {
+      "tag": "master_ds_gl_frais_candidature",
+      "questions": [
+        "Combien coûte le Master Data Science et Génie Logiciel ?", "Quel est le prix du Master ?", "Quels sont les frais d’inscription ?", 
+        "Y a-t-il des mensualités ?", "Sur combien de mois peut-on payer ?", "Quand ce programme a-t-il commencé ?",
+        "Tarif du Master DSGL", "Montant total de la formation", "Prix Master Data Science", "Frais de scolarité",
+        "Comment payer le Master ?", "Est-ce qu'on peut payer en plusieurs fois ?", "Quel est le montant des mensualités ?",
+        "Quand est-ce que le Master a été lancé ?", "Date de lancement du Master DSGL", "Y a-t-il des coûts cachés ?",
+        "Quel est le prix des 300 000 FCFA ?", "C'est quoi les 80 000 FCFA ?", "Puis-je payer en 12 fois ?",
+        "Quel est le coût annuel du Master ?", "Montant de l'inscription", "Frais d'écolage Master DSGL",
+        "Combien coûte le master info ?", "Le prix du Master est-il négociable ?", "Y a-t-il des bourses ?",
+        "Quand le Master DSGL a-t-il été créé ?", "Frais de dossier Master DSGL", "Paiement en tranches",
+        "Quel est le coût du Master pro Data Science ?", "Mise à jour tarifaire Master DSGL"
+      ],
+      "réponses": [
+        "Le coût du Master est structuré comme suit : Frais d’inscription à 300 000 FCFA et mensualités de 80 000 FCFA sur 10 mois.",
+        "Le Master Data Science et Génie Logiciel a été officiellement lancé en novembre 2022. Pour connaître les éventuelles mises à jour tarifaires, veuillez contacter l’administration."
+      ]
+    },
+    {
+      "tag": "procedure_piece_a_fournir",
+      "questions": [
+        "Comment déposer un dossier de candidature ?", "Quelles sont les pièces à fournir ?", "Où trouver le formulaire de candidature ?", 
+        "Puis-je postuler en ligne ?", "Puis-je envoyer mon dossier par e-mail ?", "Quels documents sont obligatoires ?",
+        "Procédure de candidature", "Comment s'inscrire au CRD ?", "Quels papiers dois-je préparer ?",
+        "Liste des documents nécessaires", "Dossier à retirer au CRD", "L'e-mail pour demander le formulaire",
+        "Où envoyer les dossiers ?", "Faut-il une photo d'identité légalisée ?", "Copie du Bac et relevés",
+        "Dois-je légaliser la pièce d'identité ?", "Quelles sont les étapes pour candidater ?", "Y a-t-il des frais de dossier ?",
+        "Formulaire de candidature en ligne", "Dossier de candidature", "Documents pour l'admission",
+        "Est-ce que le passeport est accepté ?", "Documents obligatoires pour l'inscription", "Où se procurer le formulaire ?",
+        "Comment envoyer le dossier par e-mail ?", "Pièces légales demandées", "Le dépôt de dossier se fait où ?",
+        "L'e-mail du CRD pour le formulaire", "Quels sont les relevés depuis le Bac ?", "Photo d'identité exigée",
+        "Puis-je postuler par courrier ?", "Date limite de dépôt de dossier"
+      ],
+      "réponses": [
+        "La procédure est simple : remplissez le dossier de candidature (à retirer au CRD ou à demander par e-mail à crd@uadb.edu.sn), joignez les pièces requises, puis déposez-le au CRD ou envoyez-le par e-mail.",
+        "Les pièces à fournir incluent : copies légalisées des diplômes et relevés depuis le Bac, copie légalisée de la pièce d’identité ou du passeport, et une photo d’identité.",
+        "Le formulaire de candidature est disponible sur demande à l’adresse e-mail crd@uadb.edu.sn."
+      ]
+    },
+    {
+      "tag": "licences_professionnelles_crd",
+      "questions": [
+        "Quelles licences professionnelles proposez-vous ?", "Avez-vous une licence en gestion ?", "Proposez-vous une licence en santé ?", 
+        "Y a-t-il une licence en supply chain ?", "Comment obtenir les fiches de formation ?",
+        "Licences du CRD", "Liste des Licences Pro", "Licence en Management des Établissements Sanitaires",
+        "Licence en Achat et Supply Chain", "Licence en Administration des Organisations", "Détaillez vos licences",
+        "Où télécharger les fiches de compétences ?", "Avez-vous des licences à distance ?", "Fiche de formation licence",
+        "Quelles sont les licences LMD ?", "Licence Management", "Licence Logistique", "Licence Sanitaire",
+        "Combien de licences professionnelles avez-vous ?", "La licence en Management et Administration des Organisations",
+        "Le CRD offre-t-il des licences en commerce ?", "Quel est le programme de la Licence Supply Chain ?",
+        "La Licence Management des Établissements Sanitaires et Sociaux", "Quelles sont les sorties professionnelles des licences ?",
+        "Y a-t-il des prérequis pour les licences ?"
+      ],
+      "réponses": [
+        "Le CRD propose trois Licences Professionnelles : Management des Établissements Sanitaires et Sociaux, Management des Achats et Supply Chain, et Management et Administration des Organisations.",
+        "Les fiches de compétences et dossiers de candidature peuvent être téléchargés en ligne ou retirés au Centre. Pour tout renseignement complémentaire, veuillez contacter le CRD."
+      ]
+    },
+    {
+      "tag": "masters_professionnels_autres",
+      "questions": [
+        "Quels autres masters proposez-vous ?", "Avez-vous un master en développement durable ?", "Existe-t-il un master en gestion de projet ?", 
+        "Y a-t-il un master en marchés publics ?", "Quels masters concernent la finance ou la comptabilité ?",
+        "Autres Masters pro", "Masters spécialisés du CRD", "Master Management des Programmes et Services de Santé",
+        "Master en Comptabilité et Finance", "Master M2 Gestion de Projet", "Master Gouvernance",
+        "Master en Gestion Axée sur les Résultats", "Master en Partenariats Public-Privé",
+        "Liste complète des Masters", "Masters en Sciences Juridiques", "Master Environnemental",
+        "Formation en marchés publics", "Autres Masters que Data Science", "Master Management des Organisations (Administration Comptable et Financière)",
+        "Master Développement Durable et Management Environnemental", "Master en GRH", "Master en Santé publique",
+        "Quels sont les Masters 2 ?", "Master en Management des Organisations", "Quels masters sont proposés par le CRD ?",
+        "Y a-t-il des masters en finance ?", "Détails sur le Master Administration Comptable et Financière",
+        "Le master en Management Environnemental", "Masters disponibles au CRD", "Masters en M2",
+        "Master Gestion Axée sur les Résultats (GAR)"
+      ],
+      "réponses": [
+        "Le CRD propose plusieurs Masters Professionnels : Management des Organisations (Administration Comptable et Financière), Management des Programmes et Services de Santé, et Développement Durable et Management Environnemental.",
+        "Des Masters 2 spécialisés existent également en Gestion de Projet, Gestion Axée sur les Résultats et Gestion des Marchés Publics et Partenariats Public-Privé."
+      ]
+    },
+    {
+      "tag": "avantages_specifiques_etude",
+      "questions": [
+        "Les diplômes du CRD sont-ils reconnus ?", "Sont-ils valables à l’étranger ?", "Comment garantissez-vous la qualité de l’enseignement ?", 
+        "Qui enseigne au CRD ?", "Le CRD accueille-t-il des étudiants étrangers ?", "Quelles sont vos valeurs ?",
+        "Vos diplômes sont-ils reconnus par l'État ?", "Reconnaissance internationale des diplômes", "Le diplôme est-il LMD ?",
+        "Le corps professoral", "Qui sont les formateurs ?", "Y a-t-il des professionnels parmi les enseignants ?",
+        "Qualité de l'enseignement au CRD", "Le CRD est-il certifié ?", "Diversité des étudiants",
+        "Accueillez-vous des étudiants de l'étranger ?", "Quelle est la richesse de votre environnement multiculturel ?",
+        "Quelles sont les valeurs du CRD ?", "L'éthique fait partie de l'enseignement ?", "La reconnaissance des diplômes",
+        "Les formations du CRD sont-elles de qualité ?", "Y a-t-il des universitaires dans le corps professoral ?",
+        "Le CRD fait-il partie du système LMD ?", "L'accueil des étudiants étrangers", "Quelle est la nature du corps professoral ?",
+        "Pourquoi choisir le CRD ?", "Les avantages d'étudier au CRD", "Les formations sont-elles professionnalisantes ?"
+      ],
+      "réponses": [
+        "Les diplômes délivrés par le CRD sont des diplômes d’État aux normes LMD, reconnus à l’international.",
+        "Nos formations sont assurées par un corps professoral composé d’universitaires et de professionnels du secteur, garantissant une approche à la fois académique et pratique.",
+        "Le CRD accueille des étudiants de divers pays africains, créant un environnement multiculturel riche. Nos valeurs reposent sur l’excellence, l’éthique et le professionnalisme."
+      ]
+    },
+    {
+      "tag": "gouvernance_contacts_officiels",
+      "questions": [
+        "Qui dirige le CRD ?", "Sous quelle autorité est placé le CRD ?", "Quel est le rôle du comité de gestion ?", 
+        "Qui fait partie de la cellule pédagogique ?", "Comment contacter le directeur du CRD ?",
+        "Le CRD dépend de qui ?", "Autorité de tutelle du CRD", "Fonctionnement du comité de gestion",
+        "Rôle de la cellule financière", "Qui est le Recteur de l’Université Alioune DIOP ?",
+        "Coordonnées de M. Sidy Camara", "Comment joindre le directeur ?", "Organigramme du CRD",
+        "Composition de la cellule pédagogique", "Qui préside la cellule pédagogique ?",
+        "Qui est le Vice-recteur chargé des études ?", "Le directeur du Centre de Ressources de Dakar",
+        "Qui est le directeur du CRD ?", "Rôle de la cellule pédagogique", "Comment contacter le Recteur ?",
+        "Adresse mail du directeur du CRD", "Le CRD est rattaché à quelle autorité ?"
+      ],
+      "réponses": [
+        "Le CRD est placé sous l’autorité directe du Recteur de l’Université Alioune DIOP. La gestion est assurée par un Comité de gestion comprenant une cellule pédagogique et une cellule financière.",
+        "La cellule pédagogique est présidée par le Vice-recteur chargé des études et composée des directeurs d’établissements et des chefs de département.",
+        "Le Directeur du Centre est M. Sidy Camara (sidy.camara@uadb.edu.sn)."
+      ]
+    },
+    {
+      "tag": "coordonnees_et_remerciements",
+      "questions": [
+        "Quelle est l’adresse du CRD ?", "Où se trouve le CRD ?", "Comment contacter le CRD ?", "Quel est le numéro de téléphone ?", 
+        "Quel est votre e-mail ?", "Merci pour les informations", "Au revoir",
+        "Donnez-moi votre localisation", "Où se situe votre centre ?", "Adresse complète du CRD",
+        "Numéro de contact CRD", "E-mail de contact", "Adresse postale", "Je vous remercie",
+        "C'est tout pour moi, merci", "Je vous recontacterai", "Merci beaucoup", "Au plaisir",
+        "Bonne journée", "A très vite", "Localisation VDN Mermoz Pyrotechnie", "B.P. 16617 Dakar Fann",
+        "Téléphone : 33 860 64 67", "Numéro de portable CRD : 76 793 24 28", "E-mail pour renseignements",
+        "Merci pour l'aide", "C'est utile", "Vous m'avez bien aidé", "Je peux vous appeler ?",
+        "Je souhaite vous écrire par mail", "Merci au revoir", "À bientôt CRD", "Je vous souhaite une bonne journée",
+        "Comment puis-je vous joindre ?", "Adresse exacte du CRD", "Quel est le code postal ?",
+        "Les coordonnées du centre"
+      ],
+      "réponses": [
+        "Le CRD est situé à la Villa n°3, VDN Mermoz Pyrotechnie, B.P. 16617 – Dakar Fann (Sénégal).",
+        "Téléphone : 33 860 64 67 / 76 793 24 28. E-mail : crd@uadb.edu.sn.",
+        "Merci de votre visite ! L’équipe du CRD reste à votre disposition pour toute information complémentaire. À très bientôt."
+      ]
+    },
+    {
+      "tag": "vide",
+      "questions": [],
+      "réponses": []
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+fastapi
+uvicorn[standard]
+python-multipart
+pydub                 # Nécessite ffmpeg sur le système
+SpeechRecognition
+tensorflow
+keras
+nltk
+numpy
+python-dotenv         # Pour gérer les clés API (si vous utilisez une API STT payante)
